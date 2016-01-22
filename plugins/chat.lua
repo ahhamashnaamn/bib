@@ -11,6 +11,9 @@ end
 if msg.text == "hello" then
 	return "Hi honey"
 end
+if msg.text == "کسس ننت" then
+	return "کیر آقام دست ننت"
+end
 if msg.text == "Salam" then
 	return "Salam aleykom"
 end
@@ -19,6 +22,9 @@ if msg.text == "salam" then
 end
 if msg.text == "ali" then
 	return "با باباییم چیکار داری؟"
+end
+if msg.text == "ناموسا" then
+	return "ننت و آقام چالوسن"
 end
 if msg.text == "علی" then
 	return "با بابایم چیکار داری؟"
@@ -67,6 +73,8 @@ return {
 		"^سلام$",
 		"^خوبی$",
 		"^علی$",
+		"^کس ننت$",
+		"^ناموسا$",
 		"^ali$",
 		"^Ali$",
 		"^pob$",
