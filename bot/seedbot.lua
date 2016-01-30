@@ -234,24 +234,25 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118333567,75213323,139990182,121069994,171618507,121259485},--Sudo users
+    sudo_users = {118333567,75213323,139990182,121069994,171618507,121259485,127244339},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     
-      POBBOT V1.5
+      LANTAN V1.5
 Admins
 @best_boy 
-@botasad 
-@dawsh_SaLvAdoR
+@lantan_hacker
+
 Special thanks to
+
 wilson
 reza cloner
 sara cloner
 lantan
 
 Our channels
-@pobbotchanl
+@LANTANBOTCH
 
 ]],
     help_text_realm = [[
@@ -334,7 +335,7 @@ This command will send text to [group_id]
 *Only admins and sudo can use res, setowner, commands
 
 Our channels
-@pobbotchanl
+@LANTANBOTCH
 
 ]],
     help_text = [[
@@ -444,7 +445,7 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 Our channels
-@pobbotchanl
+@LANTANBOTCH
 
 ]]
   }
